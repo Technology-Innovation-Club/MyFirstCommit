@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-07-28 at 12 23 28_09bab6f0](https://github.com/user-attachments/assets/4ad814e8-657f-45dd-af9e-35bd2aef96c1)-----
+
 
 ## Welcome to the TIC Club Members History\!
 
@@ -31,7 +31,7 @@ This document chronicles the dedicated members who have been part of our vibrant
         ├── Head Project Manager
         │   └── Mosope Adebayo: Computer Science
         ├── Assistant to the Head Project Manager
-        │   └── Mpkouto Inyang: ISMS
+        │   └── Mpkouto Inyang: Information Science and Media Studies
         ├── Embedded Systems Lead
         │   └── Korede Oyefusi: Mechanical Engineering
         ├── Assistant to the Embedded Systems Lead
