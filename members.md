@@ -6,25 +6,40 @@ This document chronicles the dedicated members who have been part of our vibrant
 
   ## TIC Club Members
 ### **2022-2023 Academic Year (Pioneer Excos)**
-
 ```
 └── 2022-2023 Academic Year (Pioneer Excos)
-    ├── President
-    │   └── Chukwudi Ofoma: Computer Science
-    ├── Vice President Education
-    │   └── Chinwendu Nweje: Computer Science
-    ├── Vice President Membership
-    │   └── Francis Okocha-Ojeah: Computer Science
-    ├── Vice President Public Relations
-    │   └── Ogechukwu Ata: Computer Science
-    ├── Secretary
-    │   └── Anjola Olowookere: Computer Science
-    ├── Treasurer
-    │   └── Abba Yusuf: Computer Science
-    ├── Protocol Officer
-    │   └── Christian Onuoha: Mechanical Engineering
-    └── Project Manager
-        └── Fadekemi Adebayo: Computer Science
+    ├── Club Officers
+    │   ├── President
+    │   │   └── Chukwudi Peter OFOMA: Computer Science
+    │   ├── Vice President Education
+    │   │   └── Chinwendu NWEJE: Computer Science
+    │   ├── Vice President Membership
+    │   │   └── Francis OKOCHA-OJEAH: Computer Science
+    │   ├── Vice President Public Relations
+    │   │   └── Ogechukwu ATA: Computer Science
+    │   ├── Secretary
+    │   │   └── Anjolaoluwa OLOWOKERE: Computer Science
+    │   ├── Treasurer
+    │   │   └── Abba ALI-CONCERN: Computer Science
+    │   └── Protocol Officer
+    │       └── Emeka ONUOHA: Mechanical Engineering
+    └── Ceremonial Club Officers
+        ├── Project Lead
+        │   └── Zion Anameti: Computer Science
+        ├── Assistant to the Project Lead
+        │   └── George Uwagbale: Computer Science
+        ├── Head Project Manager
+        │   └── Mosope Adebayo: Computer Science
+        ├── Assistant to the Head Project Manager
+        │   └── Mpkouto Inyang: Computer Science
+        ├── Embedded Systems Lead
+        │   └── Korede Oyefusi: Computer Science
+        ├── Assistant to the Embedded Systems Lead
+        │   └── Pius Ndukum: Computer Science
+        ├── Head of Media Unit
+        │   └── Ebube Iloba: Computer Science
+        └── Assistant to the Head of Media Unit
+            └── Sophia Ezeh: Computer Science
 
 ```
 
@@ -150,3 +165,10 @@ This document chronicles the dedicated members who have been part of our vibrant
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
 ```
+
+
+
+
+
+
+-----
