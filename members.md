@@ -1,4 +1,4 @@
------
+![WhatsApp Image 2025-07-28 at 12 23 28_09bab6f0](https://github.com/user-attachments/assets/4ad814e8-657f-45dd-af9e-35bd2aef96c1)-----
 
 ## Welcome to the TIC Club Members History\!
 
@@ -31,13 +31,13 @@ This document chronicles the dedicated members who have been part of our vibrant
         ├── Head Project Manager
         │   └── Mosope Adebayo: Computer Science
         ├── Assistant to the Head Project Manager
-        │   └── Mpkouto Inyang: Computer Science
+        │   └── Mpkouto Inyang: ISMS
         ├── Embedded Systems Lead
-        │   └── Korede Oyefusi: Computer Science
+        │   └── Korede Oyefusi: Mechanical Engineering
         ├── Assistant to the Embedded Systems Lead
-        │   └── Pius Ndukum: Computer Science
+        │   └── Pius Ndukum: Electrical & Electronics Engineering 
         ├── Head of Media Unit
-        │   └── Ebube Iloba: Computer Science
+        │   └── Ebube Iloba: Mass Communication
         └── Assistant to the Head of Media Unit
             └── Sophia Ezeh: Computer Science
 
@@ -55,7 +55,7 @@ This document chronicles the dedicated members who have been part of our vibrant
     │   └── Adetona Adegbite: Information Science and Media Studies
     ├── Software Lead
     │   └── Karol Okoede: Computer Science
-    ├── Engineering Lead/Co-Embedded Systems/Robotics Lead
+    ├── Engineering Lead
     │   └── Onyedika Igwe: Electrical and Electronics Engineering
     ├── Project Manager
     │   └── Oladimeji Abaniwonnda: Computer Science
