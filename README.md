@@ -89,3 +89,9 @@ If you’re stuck, don’t worry! Here’s what you can do:
 - Ask for help in discussions 
 - Check out GitHub’s [official documentation](https://docs.github.com/en/get-started).
 - Watch Git tutorials on [YouTube](https://www.youtube.com/results?search_query=git+and+github+tutorial)
+
+## Next steps:
+Now let's move to another branch in our repository(think of it as another version of this main branch):
+```sh
+git checkout resources
+```
