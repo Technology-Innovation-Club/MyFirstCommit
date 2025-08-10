@@ -11,6 +11,7 @@ Welcome to your curated collection of resources for cybersecurity. These are org
 - [SOC for Blue Teaming](https://www.udemy.com/share/10dJ3T3@p9EuC-w_5OfPPGljCi1GLdqS07YbPcrrFQXC2KkScbsGWdIEyJTH0zylsbmdIdgaDg==/)
 - [Mobile Application Pentesting & Bug Bounty Hunting in 2025](https://www.udemy.com/share/10dgzH3@EYed71g0BifojvkOXyjiX-csZuIeRlDppDZYnzKLM30tiHArbxE4hRo8xRntMFS9DQ==/)
 - [TryHackMe](tryhackme.com)
+- [Starter Cybersecurity Projects You Can Add to Your Resume](https://www.linkedin.com/feed/update/urn:li:activity:7309945596331646977?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7309945596331646977%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 ---
 
@@ -40,5 +41,6 @@ Welcome to your curated collection of resources for cybersecurity. These are org
 This list will grow. Feel free to suggest new resources or contribute directly via pull request.
 
 Happy learning!
+
 
 
