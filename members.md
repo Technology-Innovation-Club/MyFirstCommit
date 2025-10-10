@@ -120,7 +120,7 @@ This document chronicles the dedicated members who have been part of our vibrant
     └── Mobile Development Lead
         └── Etomchukwu Bobby-Umeano: Information Science and Media Studies
 └── Members
-        └── Fadekemi Adebayo: Computer Science, Data Analyst
+        └── Fadekeami Adebayo: Computer Science, Data Analyst
 ```
 -----
 
@@ -161,7 +161,7 @@ This document chronicles the dedicated members who have been part of our vibrant
     ├── Assistant Social Media Manager
     │   └── [Name]: [Course]
 └──  Members
-        ├── [Name]: [Course],[Profession]
+        ├── [Odianosen Fredrick Osose]: [Software Engineering],[Data Science & AI]
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
 ```
