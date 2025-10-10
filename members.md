@@ -1,11 +1,11 @@
-
-
 ## Welcome to the TIC Club Members History\!
 
 This document chronicles the dedicated members who have been part of our vibrant community, year by year. Each new year brings fresh faces, ideas, and contributions to the TIC Club legacy. Below, you'll find a record of all members, celebrating their involvement and impact on our journey.
 
-  ## TIC Club Members
+## TIC Club Members
+
 ### **2022-2023 Academic Year (Pioneer Excos)**
+
 ```
 └── 2022-2023 Academic Year (Pioneer Excos)
     ├── Club Officers
@@ -35,7 +35,7 @@ This document chronicles the dedicated members who have been part of our vibrant
         ├── Embedded Systems Lead
         │   └── Korede Oyefusi: Mechanical Engineering
         ├── Assistant to the Embedded Systems Lead
-        │   └── Pius Ndukum: Electrical & Electronics Engineering 
+        │   └── Pius Ndukum: Electrical & Electronics Engineering
         ├── Head of Media Unit
         │   └── Ebube Iloba: Mass Communication
         └── Assistant to the Head of Media Unit
@@ -43,7 +43,7 @@ This document chronicles the dedicated members who have been part of our vibrant
 
 ```
 
------
+---
 
 ### **2024 Academic Year (Excos)**
 
@@ -82,10 +82,10 @@ This document chronicles the dedicated members who have been part of our vibrant
     └── Assistant Mobile Development Lead
         └── Miracle Nnadiukwu: Computer Science
 └── Members
-        └── Rotimi Seyi: Computer Science, Cloud computing Dev 
+        └── Rotimi Seyi: Computer Science, Cloud computing Dev
 ```
 
------
+---
 
 ### **2025 Academic Year (Excos)**
 
@@ -122,7 +122,8 @@ This document chronicles the dedicated members who have been part of our vibrant
 └── Members
         └── Fadekemi Adebayo: Computer Science, Data Analyst
 ```
------
+
+---
 
 ### **2026 Academic Year**
 
@@ -161,14 +162,11 @@ This document chronicles the dedicated members who have been part of our vibrant
     ├── Assistant Social Media Manager
     │   └── [Name]: [Course]
 └──  Members
-        ├── [Name]: [Course],[Profession]
-        ├── [Name]: [Course],[Profession]
-        └── [Name]: [Course],[Profession]
+        ├── Name: Jamil Salami
+            Course: Computer Science Stream 2
+            Year: 2025
+            Profession: Game Developer, Frontend Web Developer
+
 ```
 
-
-
-
-
-
------
+---
