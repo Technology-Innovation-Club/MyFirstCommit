@@ -160,10 +160,10 @@ This document chronicles the dedicated members who have been part of our vibrant
     │   └── [Name]: [Course]
     ├── Assistant Social Media Manager
     │   └── [Name]: [Course]
-└──  Name: Idowu Inioluwa
-        ├── Course: Software Engineering
-        ├── Year: 2025
-        └── Profession: Software Engineer
+└──  Members
+        ├── [Idowu Inioluwa]: [Software Engineering],[Game Developer]
+        ├── [Name]: [Course],[Profession]
+        └── [Name]: [Course],[Profession]
 ```
 
 
