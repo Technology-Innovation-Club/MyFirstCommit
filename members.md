@@ -161,7 +161,7 @@ This document chronicles the dedicated members who have been part of our vibrant
     ├── Assistant Social Media Manager
     │   └── [Name]: [Course]
 └──  Members
-        ├── [Name]: [Course],[Profession]
+        ├── Iyeresiri Ogbe: Software Engineering, Embedded systems and robotics 
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
 ```
