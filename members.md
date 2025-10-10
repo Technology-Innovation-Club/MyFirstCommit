@@ -1,4 +1,7 @@
-
+Name: Masah Tamaratare 
+Course: Software Engineering
+Year: 2025
+Profession: Software Engineer
 
 ## Welcome to the TIC Club Members History\!
 
