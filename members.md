@@ -161,7 +161,7 @@ This document chronicles the dedicated members who have been part of our vibrant
     ├── Assistant Social Media Manager
     │   └── [Name]: [Course]
 └──  Members
-        ├── [Name]: [Course],[Profession]
+        ├── [Ayodeji-Olatuyi Bogoty]: [Mechatronics Engineering],[Engineer]
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
 ```
