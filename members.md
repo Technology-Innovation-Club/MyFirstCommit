@@ -164,6 +164,10 @@ This document chronicles the dedicated members who have been part of our vibrant
         ├── [Name]: [Course],[Profession]
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
+        - Name: Darasimi Oguntoyinbo
+          Course: Computer Science Stream 2
+          Year: 200
+          Profession: FullStack Developer
 ```
 
 
