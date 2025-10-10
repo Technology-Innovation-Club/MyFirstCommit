@@ -161,7 +161,7 @@ This document chronicles the dedicated members who have been part of our vibrant
     ├── Assistant Social Media Manager
     │   └── [Name]: [Course]
 └──  Members
-        ├── [Name]: [Course],[Profession]
+        ├── [Idowu Inioluwa]: [Software Engineering],[Game Developer]
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
 ```
