@@ -121,6 +121,7 @@ This document chronicles the dedicated members who have been part of our vibrant
         └── Etomchukwu Bobby-Umeano: Information Science and Media Studies
 └── Members
         └── Fadekemi Adebayo: Computer Science, Data Analyst
+
 ```
 -----
 
@@ -161,7 +162,7 @@ This document chronicles the dedicated members who have been part of our vibrant
     ├── Assistant Social Media Manager
     │   └── [Name]: [Course]
 └──  Members
-        ├── [Name]: [Course],[Profession]
+        ├── [Name]: Talent-Ajieh Precious [Course]: Computer Science,[Profession]
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
 ```
