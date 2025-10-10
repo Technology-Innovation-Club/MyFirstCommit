@@ -164,6 +164,11 @@ This document chronicles the dedicated members who have been part of our vibrant
         ├── [Name]: [Course],[Profession]
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
+        
+        - Name: Nwaogu Uchenna Marcel
+  Course: Computer Science
+  Year: 2025
+  Profession: Ai Engineer
 ```
 
 
