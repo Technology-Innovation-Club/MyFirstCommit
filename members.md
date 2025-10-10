@@ -161,7 +161,10 @@ This document chronicles the dedicated members who have been part of our vibrant
     ├── Assistant Social Media Manager
     │   └── [Name]: [Course]
 └──  Members
-        ├── [Name]: [Course],[Profession]
+        ├── [Name]: Kenechukwu Justin-Ijeh 
+        [Course]: Mechatronics Engineering
+        [Year]: 2025
+        [Profession]: Data Science/ ML Engineer
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
 ```
