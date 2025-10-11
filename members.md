@@ -161,7 +161,7 @@ This document chronicles the dedicated members who have been part of our vibrant
     ├── Assistant Social Media Manager
     │   └── [Name]: [Course]
 └──  Members
-        ├── [Name]: [Course],[Profession]
+        ├── [Edeoghon Ehikioya]: [Software Engineering],[Software Engineer]
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
 ```
