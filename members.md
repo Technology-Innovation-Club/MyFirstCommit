@@ -121,7 +121,13 @@ This document chronicles the dedicated members who have been part of our vibrant
         └── Etomchukwu Bobby-Umeano: Information Science and Media Studies
 └── Members
         └── Fadekemi Adebayo: Computer Science, Data Analyst
+        
+Name: Josemaria Ofor
+Course: Computer Science
+Year: 2025
+Profession: Student
 ```
+
 -----
 
 ### **2026 Academic Year**
