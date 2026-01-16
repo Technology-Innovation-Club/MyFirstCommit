@@ -172,3 +172,8 @@ This document chronicles the dedicated members who have been part of our vibrant
 
 
 -----
+
+- Name: Kenechuwku Jason Akubue
+  Course: Computer Science
+  Year: 2025
+  Profession: Student
