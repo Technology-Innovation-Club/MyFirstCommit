@@ -164,6 +164,11 @@ This document chronicles the dedicated members who have been part of our vibrant
         ├── [Godreigns Amedari]: [Data Science],[Data Science & AI]
         ├── [Name]: [Course],[Profession]
         └── [Name]: [Course],[Profession]
+        
+        - Name: Nwaogu Uchenna Marcel
+  Course: Computer Science
+  Year: 2025
+  Profession: Ai Engineer
 ```
 
 
